@@ -1,6 +1,7 @@
 # ScorbotRobot_Project
 
 Track Project:
+
 Lo SCORBOT si deve muovere in base alla configurazione (xd,yd,zd,βd,ωd) desiderata della pinza nello spazio di lavoro. 
 L'assegnazione della configurazione desiderata della pinza va fatta nel seguente modo: con x minuscolo si diminuisce la coordinata x, con X maiuscolo la si aumenta (lo stesso discorso vale per le altre variabili, per β si può usare per esempio la lettera b e per ω la lettera w).
 L'apertura e chiusura della pinza NON è richiesta come obiettivo del lavoro. 
